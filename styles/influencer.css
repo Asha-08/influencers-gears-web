@@ -215,6 +215,9 @@ color:#727272 ;
         flex-direction: column-reverse;
 
     }
+    .image-container{
+        width: 85%;
+    }
     .image-box{
      width: 90%;
     height: auto;
