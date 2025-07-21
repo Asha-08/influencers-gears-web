@@ -213,12 +213,8 @@ color:#727272 ;
     }
     .banner{
         flex-direction: column-reverse;
-
     }
-    .image-container{
-        width: 85%;
-    }
-    .image-box{
+     .image-box{
      width: 90%;
     height: auto;
     flex-wrap: wrap;
@@ -237,4 +233,6 @@ color:#727272 ;
         text-align: center;
         width: 100%;
     }
-}
+    
+    }
+   
