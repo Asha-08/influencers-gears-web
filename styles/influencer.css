@@ -155,9 +155,15 @@ color:#727272 ;
     padding: 10px 15px;
     margin-top: 50px;
     margin-bottom: 100px;
-    text-align: left;
+    /* text-align: left; */
     
 
+}
+/* btn left */
+
+.btn-left{
+    display: flex;
+    justify-content: flex-end;
 }
 /* featured section */
 .feature-section{
